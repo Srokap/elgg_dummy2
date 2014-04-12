@@ -1,0 +1,11 @@
+{
+  "name": "srokap/elgg_dummy2",
+  "type": "elgg-plugin",
+  "description": "Dummy plugin for composer testing",
+  "license": ["MIT"],
+  "require": {
+    "php": ">=5.3.3",
+    "composer/installers": ">=1.0.8",
+    "srokap/elgg_dummy1": "dev-master"
+  }
+}
